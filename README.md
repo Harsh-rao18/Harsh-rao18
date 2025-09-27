@@ -1,8 +1,21 @@
 <h1 align="center">Hi 👋, I'm Harsh</h1>
 <h3 align="center">Aspiring Flutter & Firebase Developer.</h3>
 
+- 💻I’m currently working on improving my **Flutter + Firebase skills**
+
+- 🤝 Open to collaborating on **Flutter apps and backend projects**
+
+- 🌱 I’m learning Node.js, Express.js, and MongoDB to grow as a **full-stack developer**
+
+- 📝 I share my coding journey and projects on **GitHub**
+
+- 🎯 My goal is to land an internship in **mobile or full-stack development**
+
+- 🚀 Actively building real-world projects to apply my learning and **strengthen my portfolio.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/__skypiea__1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__skypiea__1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
