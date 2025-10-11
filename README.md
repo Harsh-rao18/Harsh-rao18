@@ -1,26 +1,72 @@
-<h1 align="center">Hi 👋, I'm Harsh</h1>
-<h3 align="center">Aspiring Flutter & Firebase Developer.</h3>
 
-- 💻I’m currently working on improving my **Flutter + Firebase skills**
+<!-- ============================= -->
+<!--          INTRODUCTION         -->
+<!-- ============================= -->
 
-- 🤝 Open to collaborating on **Flutter apps and backend projects**
+# Hi, I'm Harsh 👋  
+**Passionate Flutter & Backend Developer |  DREAM BIG,CODE BIGGER**
 
-- 🌱 I’m learning Node.js, Express.js, and MongoDB to grow as a **full-stack developer**
+---
 
-- 📝 I share my coding journey and projects on **GitHub**
+<!-- ============================= -->
+<!--             ABOUT ME          -->
+<!-- ============================= -->
 
-- 🎯 My goal is to land an internship in **mobile or full-stack development**
+## 👨‍💻 About Me  
+I’m a software developer focused on **Flutter** and **Backend Development**, passionate about creating applications that make a real impact.  
+Currently, I’m enhancing my backend skills with **Node.js**, **Express**, **PostgreSQL**, and **Docker** — focusing on writing scalable APIs and clean architecture.  
+I love solving real-world problems through clean code, smart architecture, and great UI/UX.  
 
-- 🚀 Actively building real-world projects to apply my learning and **strengthen my portfolio.**
+🎯 Always learning — currently diving deeper into backend development with **Express & MongoDB**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/__skypiea__1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__skypiea__1" height="30" width="40" /></a>
+---
+
+<!-- ============================= -->
+<!--         TECH & TOOLS          -->
+<!-- ============================= -->
+
+## 🧰 Tech & Tools  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-0078D4?logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh-rao18&show_icons=true&locale=en&layout=compact" alt="harsh-rao18" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-rao18&" alt="harsh-rao18" /></p>
+
+
+
+
+## 🌐 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-rao-8a4b44369/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Harsh-rao18)  
+
+---
+
+<!-- ============================= -->
+<!--           GITHUB STATS        -->
+<!-- ============================= -->
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsh-rao18&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://streak-stats.demolab.com?user=Harsh-rao18&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-rao18&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
