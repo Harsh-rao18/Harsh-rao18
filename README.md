@@ -67,10 +67,24 @@ I love solving real-world problems through clean code, smart architecture, and g
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsh-rao18&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Harsh-rao18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    alt="Harsh's GitHub Stats" 
+    height="180" 
+  />
+  <!-- GitHub Streak -->
+  <img 
+    src="https://streak-stats.demolab.com?user=Harsh-rao18&theme=tokyonight&hide_border=true&v=1" 
+    alt="Harsh's GitHub Streak" 
+    height="180" 
+  />
+  <!-- Top Languages -->
   <br><br>
-  <img src="https://streak-stats.demolab.com?user=Harsh-rao18&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-rao18&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-rao18&layout=compact&theme=tokyonight&hide_border=true" 
+    alt="Top Languages" 
+  />
 </p>
+
 
