@@ -73,12 +73,6 @@ I love solving real-world problems through clean code, smart architecture, and g
     alt="Harsh's GitHub Stats" 
     height="180" 
   />
-  <!-- GitHub Streak -->
-  <img 
-    src="https://streak-stats.demolab.com?user=Harsh-rao18&theme=tokyonight&hide_border=true&v=1" 
-    alt="Harsh's GitHub Streak" 
-    height="180" 
-  />
   <!-- Top Languages -->
   <br><br>
   <img 
